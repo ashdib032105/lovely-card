@@ -400,7 +400,7 @@ export default function QuizPage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-pink-100 via-purple-100 to-blue-100 p-4 relative">
       {/* Music Player */}
-      <MusicPlayer autoPlay={true} />
+      <MusicPlayer />
 
       {/* Back Button */}
       <motion.div
