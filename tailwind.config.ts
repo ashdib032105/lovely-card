@@ -24,6 +24,6 @@ const config = {
     logs: true,
     themeRoot: ":root",
   },
-} satisfies Config;
+};
 
 export default config;
