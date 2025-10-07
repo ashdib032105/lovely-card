@@ -9,16 +9,18 @@ export const letterConfig: LetterConfig = {
   title: 'Love Letter for your Birthday',
   content: `Hi sayang ebby,
 
-Selamat Hari Jadi Sayang yang ke-22, Ebby doakan sayang sentiasa dimurahkan rezeki dan dikurniakan lebih banyak kejayaan. I am really proud of you sayang for your previous result and tahniah to get dekan again my love.
+**Selamat Hari Jadi Sayang yang ke-22 ❤️
 
-Sayang, ebby nk sayang tahu, yang ebby always cinta dan sayang sangat2 dengan sayang. I never think how can I life without you❤️ sayang. Ebby akan always support sayang in every aspect through your life. Ebby sayang dan cinta sayang sgt2.
+Ebby doakan sayang sentiasa dimurahkan rezeki dan dikurniakan lebih banyak kejayaan dalam hidup. I’m really proud of you, sayang — especially for your previous result. Tahniah for getting the Dean’s List again, my love!
 
-Sayang ebby, sori tau kalau ebby selalu buat sayang xde mood dan marah dgn ebby. ebby cuba yang terbaik untuk lebih peka untuk jaga hati dan perasaan sayang. Muah muah
+Sayang, Ebby nak sayang tahu yang Ebby always cinta dan sayang sangat-sangat dengan sayang. I never imagine how I could live without you ❤️ You mean so much to me. Ebby akan selalu support sayang in every aspect of your life, no matter what happens.
 
-Akhir kata, ebby doakan sayang always semangat dan kuat untuk terus ke depan. Ebby doa kita always together and eventually married one day. Ebby always love you my sayang.
+Sayang Ebby, sorry tau kalau Ebby kadang-kadang buat sayang hilang mood atau marah. Ebby akan cuba yang terbaik untuk lebih peka dan jaga hati serta perasaan sayang. Muah muah! 💋
+
+Akhir kata, Ebby doakan sayang sentiasa kuat dan bersemangat untuk terus melangkah ke depan. Ebby juga doa semoga kita akan selalu bersama — and eventually get married one day ❤️
 
 Forever yours,
-**Ebby**`
+**Ebby**
 };
 
 // 📝 HOW TO EDIT:
