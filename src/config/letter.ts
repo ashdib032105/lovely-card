@@ -20,11 +20,5 @@ Sayang Ebby, sorry tau kalau Ebby kadang-kadang buat sayang hilang mood atau mar
 Akhir kata, Ebby doakan sayang sentiasa kuat dan bersemangat untuk terus melangkah ke depan. Ebby juga doa semoga kita akan selalu bersama — and eventually get married one day ❤️
 
 Forever yours,
-**Ebby**
+**Ebby**`
 };
-
-// 📝 HOW TO EDIT:
-// 1. Change the title above
-// 2. Replace the content with your personal letter
-// 3. Use **text** for bold, *text* for italic
-// 4. Add emojis directly: ❤️ 💕 ✨
