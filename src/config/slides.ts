@@ -12,17 +12,17 @@ export const slidesConfig: SlideConfig[] = [
   {
     id: '1',
     imageUrl: '/slides/slide1.jpg',
-    caption: 'Sayang is pretty gurl❤️'
+    caption: 'Sayang is a pretty girl ❤️❤️❤️'
   },
   {
     id: '2',
     imageUrl: '/slides/slide2.jpg',
-    caption: ' Sayang cute + stress moment but still keep strong...my hardwork gurl'
+    caption: ' Sayang, my cute yet stressed girl — still standing strong through it all. My hardworking love, you amaze me every day ❤️'
   },
   {
     id: '3',
     imageUrl: '/slides/slide3.jpg',
-    caption: 'Your smile make ebby *flutter*, your smile make ebby extremely *happy*💕'
+    caption: 'Your smile makes ebby’s heart flutter💕'
   },
   {
     id: '4',
