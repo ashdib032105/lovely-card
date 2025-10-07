@@ -17,7 +17,7 @@ Sayang, Ebby nak sayang tahu yang Ebby always cinta dan sayang sangat-sangat den
 
 Sayang Ebby, sorry tau kalau Ebby kadang-kadang buat sayang hilang mood atau marah. Ebby akan cuba yang terbaik untuk lebih peka dan jaga hati serta perasaan sayang. Muah muah! 💋
 
-Akhir kata, Ebby doakan sayang sentiasa kuat dan bersemangat untuk terus melangkah ke depan. Ebby juga doa semoga kita akan selalu bersama — and eventually get married one day ❤️
+Akhir kata, Ebby doakan sayang sentiasa kuat dan bersemangat untuk terus melangkah ke depan. Ebby juga doa semoga kita akan selalu bersama and eventually get married one day ❤️
 
 Forever yours,
 **Ebby**`
