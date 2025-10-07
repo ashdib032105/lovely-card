@@ -9,7 +9,7 @@ export const letterConfig: LetterConfig = {
   title: 'Love Letter for your Birthday',
   content: `Hi sayang ebby,
 
-**Selamat Hari Jadi Sayang yang ke-22 ❤️
+**Selamat Hari Jadi Sayang yang ke-22** ❤️
 
 Ebby doakan sayang sentiasa dimurahkan rezeki dan dikurniakan lebih banyak kejayaan dalam hidup. I’m really proud of you, sayang — especially for your previous result. Tahniah for getting the Dean’s List again, my love!
 
